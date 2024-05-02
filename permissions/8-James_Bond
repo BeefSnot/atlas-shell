@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u-rwg,g-rwg,o+rwg hello
+chmod 0007 hello
