@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Filename
+# Filename
 filename="school"
 
 # Does the file exists
